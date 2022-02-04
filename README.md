@@ -1,2 +1,3 @@
 # phaser-ts
-Play with Phaser/Typescript/Gitpod
+
+## Playing with Phaser/Typescript/Gitpod
