@@ -1,0 +1,6 @@
+tasks:
+  - init: yarn build
+    command: yarn http-server
+ports:
+  - port: 8080
+    onOpen: open-preview
